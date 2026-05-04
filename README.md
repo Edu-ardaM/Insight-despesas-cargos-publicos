@@ -22,6 +22,10 @@ Identificar comportamentos relevantes na alocação de recursos através da aná
 * **Jupyter Notebook:** Para desenvolvimento do fluxo de análise.
 * **Excel:** Fonte de dados original e suporte para tabelas auxiliares.
 
+## 📜 Certificação Relacionada
+Os conhecimentos técnicos aplicados neste projeto foram consolidados através da seguinte certificação:
+![Certificado](./MARIA EDUARDA - Análise de dados com Python_page-0001.png)
+
 ## 🔍 Análises Realizadas
 1. Comparação entre despesa média e total por categoria.
 2. Identificação dos cargos com maior impacto no orçamento.
