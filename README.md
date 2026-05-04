@@ -25,7 +25,7 @@ Identificar comportamentos relevantes na alocação de recursos através da aná
 ## 📜 Certificação Relacionada
 Os conhecimentos técnicos aplicados neste projeto foram consolidados através da seguinte certificação:
 
-![Certificado](./Analisededadoscom Python_page-0001.jpg)
+![Certificado](./Analisededadoscom%20Python_page-0001.jpg)
 
 ## 🔍 Análises Realizadas
 1. Comparação entre despesa média e total por categoria.
