@@ -55,5 +55,3 @@ plt.yticks(fontsize=8)
 plt.xlabel('Número Total de Viagens')
 
 plt.show()
-
-## Desenvolvido por Maria Eduarda** *Estudante de Ciência da Computação - Focada em Análise de Dados e BI.*
