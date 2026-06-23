@@ -1,5 +1,6 @@
 # Análise de Despesas por Cargos Públicos
-Este projeto realiza uma análise exploratória de dados (EDA) sobre despesas de viagens associadas a cargos públicos. O foco é identificar padrões de gastos, concentração geográfica e possíveis ineficiências no uso de recursos públicos.
+Projeto de análise exploratória de dados (EDA) utilizando Python para identificar padrões de gastos em despesas de viagens de cargos públicos.
+O objetivo é entender a distribuição dos custos e identificar possíveis ineficiências na alocação de recursos.
 
 ## Objetivo
 Identificar comportamentos relevantes na alocação de recursos através da análise de:
